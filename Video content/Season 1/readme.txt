@@ -9,9 +9,9 @@ Content:
 		i. 	Wirex card
 		ii.	Exchanged such as CoinBase
 		iii.	Possible opportunities (invest in other coins)
-	b. Transfer of Value, with benefit of investment 		  	   (increasing lower minima rule)
+	b. Transfer of Value, with benefit of investment (increasing lower minima rule)
 	c. Threats to Bitcoin (summary: Polarization, regulation, 		   risk)
 
 
 
-Disclaimer: 	Intention of the creator is to educate newbies 				about the potential of the emerging technology 				and should not be considered as financial 					advise.
+Disclaimer: Intention of the creator is to educate newbies about the potential of the emerging technology and should not be considered as financial advise.
