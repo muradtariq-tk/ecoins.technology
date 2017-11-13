@@ -26,7 +26,15 @@ Content:
 --[ Episode 3: Platform Token ]--
 
 1. What is ethereum and how is it different from Bitcoin?
-2. What is ether and gas ?
+2. Ethereum mathematical model.
+3. Successful applications of Ethereum.
+
+--[ Episode 4: Application tokens ]--
+
+1. What are applications tokens?
+2. How are application tokens different from coins and platform tokens?
+
+--[ Episode 5: Legal issues]--
 
 
 Disclaimer: Intention of the creator is to educate newbies about the potential of the emerging technology and should not be considered as financial advise.
