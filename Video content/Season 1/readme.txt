@@ -10,7 +10,7 @@ Content:
 		ii.	Exchanged such as CoinBase
 		iii.	Possible opportunities (invest in other coins)
 	b. Transfer of Value, with benefit of investment (increasing lower minima rule)
-	c. Threats to Bitcoin (summary: Polarization, regulation, 		   risk)
+	c. Threats to Bitcoin (summary: Polarization, regulation, risk)
 
 
 
