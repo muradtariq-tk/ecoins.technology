@@ -15,6 +15,9 @@ Content:
 	b. Transfer of Value, with benefit of investment (increasing lower minima rule)
 	c. Threats to Bitcoin (summary: Polarization, regulation, risk)
 
+--[ Episode 1.5: Mining ]--
+
+
 --[ Episode 2: BlockChain ]--
 
 1. What is BlockChain?
